@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning self development
 - 💞️ I’m looking to collaborate on development
-- 📫 How to reach me thtshuvopodder@outlook.com
+- 📫 How to reach me tht.shuvopodder@outlook.com
 
 <!---
 tht-shuvopodder/tht-shuvopodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
