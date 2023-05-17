@@ -12,7 +12,7 @@
 | Research & Development | [THT-Space Electrical Company LTD.](https://day1company.co.kr) | 2023.03. ~ Now. |
 
 ### 🎓 Education
-- BSC in [Computer Science & Engineering](https://daffodilvarsity.edu.bd/), [Daffodil International University](https://daffodilvarsity.edu.bd/) 2017. 01. ~ 2021.05.
+- BSC in [Computer Science & Engineering](https://daffodilvarsity.edu.bd/department/cse), [Daffodil International University](https://daffodilvarsity.edu.bd/) 2017. 01. ~ 2021.05.
 
 - Undergraduate Study Abroad in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2019. 08. ~ 2020.07.
   - International Exchange Student
