@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @tht-shuvopodder
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning windows driver development
-- 💞️ I’m looking to collaborate on development
+- 💞️ I’m looking to collaborate on research & development
 - 📫 How to reach me tht.shuvopodder@outlook.com
 
 ### 💻 Work Experience
