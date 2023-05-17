@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tht-shuvopodder
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning self development
+- 🌱 I’m currently learning windows driver development
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me tht.shuvopodder@outlook.com
 
