@@ -9,7 +9,9 @@
 ### 💻 Work Experience
 | Role | Company | Period |
 |:---|:---:|---:|
-| Research & Development | [THT-Space Electrical Company LTD.](https://day1company.co.kr) | 2023.03. ~ Now. |
+| Research & Development | [THT-Space Electrical Company LTD.](http://www.printernoble.com) | 2023.03. ~ Now. |
+| Programmer | [JB CODERS LTD.](https://jbc-corp.com/en/home) | 2022.09. ~ Dec. |
+| App Developer | [Regnum IT LTD.](https://regnumit.com) | 2021.08. Started~  |
 
 ### 🎓 Education
 - BSC in [Computer Science & Engineering](https://daffodilvarsity.edu.bd/department/cse), [Daffodil International University](https://daffodilvarsity.edu.bd/) 2017. 01. ~ 2021.05.
