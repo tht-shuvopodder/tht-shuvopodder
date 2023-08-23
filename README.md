@@ -4,7 +4,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning windows driver development
 - 💞️ I’m looking to collaborate on research & development
-- 📫 How to reach me tht.shuvopodder@outlook.com
+- 📫 How to reach me tht.shuvopodder@outlook.com or my personal github : https://github.com/shuvopodder
 
 ### 💻 Work Experience
 | Role | Company | Period |
