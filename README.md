@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @tht-shuvopodder
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning windows driver development
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on research & development
 - 📫 How to reach me tht.shuvopodder@outlook.com or my personal github : https://github.com/shuvopodder
 
